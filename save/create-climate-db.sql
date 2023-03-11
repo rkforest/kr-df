@@ -1,1 +1,0 @@
-SELECT * FROM temperature_anomalies LIMIT 5
